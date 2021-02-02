@@ -22,6 +22,9 @@ I am going to describe the number of hours and location and expenses.
 | banglore | 4 | 500$ |
 | chennai | 2 | 200$ |
 | ooty | 6 | 600$ |
+
+
+
 ! [hyderabad](images/banglore.jpg)
 ! [banglore](images/banglore)
 ! [chennai](images/chennai)
