@@ -26,7 +26,7 @@ I am going to describe the number of hours and location and expenses.
 
 
 ! [hyderabad](/images/hyderabad.jpg)
-! [banglore](/images/banglore)
+! [banglore](/images/banglore.jpg)
 
 ! [ooty](/images/ooty.jpg)
 
