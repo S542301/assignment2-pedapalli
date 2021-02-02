@@ -13,4 +13,15 @@ paneer is a bit like **chicken** it has only a small flavor of its own but readi
 * ingredients paneer spices.
 * onions tomatoes cashews.
 ** [myphoto](AboutMe.md) **
+---
+# places to visit
+I am going to describe the number of hours and location and expenses.
+| location | number of hours | amount of money |
+| :---: | :---: | :---: |
+| hyderabad | 3 | 100$ |
+| banglore | 4 | 500$ |
+| chennai | 2 | 200$ |
+| ooty | 6 | 600$ |
+
+
 
