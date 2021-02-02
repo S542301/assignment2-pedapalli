@@ -32,9 +32,11 @@ I am going to describe the number of hours and location and expenses.
 
 ---
 # Pithy Quotes
-> “Whatever you are, be a good one.” - ** Abraham Lincoln **.
+> “Whatever you are, be a good one.” - 
+> *Abraham Lincoln*
 
-> "Imagination is more important than knowledge."- ** einstein **.
+> "Imagination is more important than knowledge."- 
+> *einstein*
 ---
 
 # code fencing
