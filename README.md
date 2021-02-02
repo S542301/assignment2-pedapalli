@@ -25,10 +25,12 @@ I am going to describe the number of hours and location and expenses.
 
 
 
-! [hyderabad](images/banglore.jpg)
-! [banglore](images/banglore)
-! [chennai](images/chennai)
-! [ooty](images/ooty)
+! [hyderabad](/images/hyderabad.jpg)
+! [banglore](/images/banglore)
+
+! [ooty](/images/ooty.jpg)
+
+
 ---
 # Pithy Quotes
 > “Whatever you are, be a good one.” - **Abraham Lincoln**.
