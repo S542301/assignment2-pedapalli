@@ -27,16 +27,16 @@ I am going to describe the number of hours and location and expenses.
 
 ![hyderabad](/images/hyderabad.jpg)
 ![banglore](/images/banglore.jpg)
-
 ![ooty](/images/ooty.jpg)
 
 
 ---
 # Pithy Quotes
-> “Whatever you are, be a good one.” - **Abraham Lincoln**.
+> “Whatever you are, be a good one.” - ** Abraham Lincoln **.
 
-> "Imagination is more important than knowledge."- **einstein**.
+> "Imagination is more important than knowledge."- ** einstein **.
 ---
+
 # code fencing
 > A successor to the programming language B, C was originally developed at Bell Labs by Dennis Ritchie between 1972 and 1973 to construct utilities running on Unix. It was applied to re-implementing the kernel of the Unix operating system.
 Source Link <https://en.wikipedia.org/wiki/C_(programming_language)>
